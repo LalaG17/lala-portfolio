@@ -16,10 +16,3 @@ Starter portfolio for Lala.
 - Burnt Orange: #C0754D
 - Brown: #B6410F
 
-## Next
-Replace the project placeholders with real screenshots/photos and update:
-- email
-- GitHub
-- LinkedIn
-- project descriptions
-- CV link
